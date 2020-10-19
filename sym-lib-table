@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HCPL-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/HCPL Board-rescue.lib")(options "")(descr ""))
+)

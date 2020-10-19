@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1S7E_1.5UP
+D Gaptec DC_DC Isolator
+K isolated isolation dc-dc converter transformer
+F https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=D400%2F1S7E_15UP_DS_EN.pdf
+$ENDCMP
+#
+#End Doc Library

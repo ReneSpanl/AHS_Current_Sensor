@@ -1,0 +1,29 @@
+ID;Bezeichner;Gehäuse;Stückzahl;Bezeichnung;Anbieter und Referenz
+1;J1;Conn_01x03_Female_Scre;1;Conn_01x03_Female;https://www.conrad.de/de/p/degson-dg301-5-0-03p-12-schraubklemmblock-1-50-mm-polzahl-3-blau-1-730196.html
+2;L7805;TO-220-3_Vertical;1;L7805;L7805
+4;R,R_Shunt2,R_Shunt1;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;3;1;VORHANDEN, 1 OHM 
+5;R12,R7,R6;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;3;2.2k;WIDERSTAND
+6;C14,C13,C12,C11;C_Disc_D5.0mm_W2.5mm_P5.00mm;4;100n;https://www.conrad.de/de/p/tancap-ct4-0805y104m500c1t-keramik-kondensator-tht-100-nf-50-v-20-b-x-h-4-2-mm-x-25-mm-1-1584724.html
+7;C7,C5;C_Disc_D5.0mm_W2.5mm_P5.00mm;2;22n;https://www.conrad.de/de/p/tancap-ct4-0805y223m500a1t-keramik-kondensator-tht-22-nf-50-v-20-b-x-h-4-2-mm-x-25-mm-1-1578733.html
+8;C8,C2;CP_Radial_D5.0mm_P2.50mm;2;0.1uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg8-860010672001-elektrolyt-kondensator-radial-bedrahtet-2-mm-0-1-f-50-v-20-x-h-5-mm-x-1280174.html
+9;R4,R10,R9,R5;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;4;4,7k;WIDERSTAND
+10;C10;CP_Radial_D5.0mm_P2.50mm;1;0.47uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg5-860020672004-elektrolyt-kondensator-radial-bedrahtet-2-mm-0-47-f-50-v-20-x-h-5-mm-x-1280689.html
+11;C9;CP_Radial_D5.0mm_P2.50mm;1;2.2uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg5-860020672006-elektrolyt-kondensator-radial-bedrahtet-2-mm-2-2-f-50-v-20-x-h-5-mm-x-11-mm-1-1280691.html
+12;C6,C1;CP_Radial_D5.0mm_P2.50mm;2;0.33uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg8-860010672005-elektrolyt-kondensator-radial-bedrahtet-2-mm-1-f-50-v-20-x-h-5-mm-x-11-mm-1-1280178.html
+13;C4;CP_Radial_D5.0mm_P2.50mm;1;1uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg5-860020672005-elektrolyt-kondensator-radial-bedrahtet-2-mm-1-f-50-v-20-x-h-5-mm-x-11-1280690.html
+14;C3;CP_Radial_D5.0mm_P2.50mm;1;10uF;https://www.conrad.de/de/p/wuerth-elektronik-wcap-atg8-860010372001-elektrolyt-kondensator-radial-bedrahtet-2-mm-10-f-16-v-20-x-h-5-mm-x-11-mm-1-1280358.html
+15;DC-DC1;Gaptec_1S7E_1505S1.5UP;1;1S7E_1.5UP-HCPL_Board;https://www.conrad.de/de/p/gaptec-1s7e-1505s1-5up-dc-dc-wandler-print-15-v-dc-5-v-dc-200-ma-1-w-anzahl-ausgaenge-1-1603687.html
+16;Gain;Potentiometer_Bourns_3006P_Horizontal;1;20k;https://www.conrad.de/de/p/weltron-wel3006-1-203-lf-spindeltrimmer-22-gang-linear-0-5-w-20-k-7920-1-447935.html
+17;Offset;Potentiometer_Bourns_3006P_Horizontal;1;5k;https://www.conrad.de/de/p/weltron-wel3006-1-502-lf-spindeltrimmer-22-gang-linear-0-5-w-5-k-7920-1-447911.html
+18;L7912;TO-220-3_Vertical;1;L7912;L7912
+19;J4;BNC_Amphenol_B6252HB-NPP3G-50_Horizontal;1;Conn_Coaxial;Elektrowerkstatt
+20;C_Alias;C_Disc_D3.4mm_W2.1mm_P2.50mm;1;0.01u;https://www.conrad.de/de/p/tru-components-tc-k10nf500v-keramik-kondensator-tht-10-nf-500-v-20-1-1589459.html
+21;L7812;TO-220-3_Vertical;1;L7812;L7812
+22;R2;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;1;1.2k;WIDERSTAND
+23;OP1;DIP-8_W7.62mm;1;OP07;https://www.conrad.de/de/p/analog-devices-ad820anz-linear-ic-operationsverstaerker-j-fet-pdip-1248992.html
+24;R_Alias;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;1;47;WIDERSTAND
+25;R3,R1;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;2;3.9k;WIDERSTAND
+26;R11,R8;R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;2;10k;WIDERSTAND
+27;J3,J2;Banana_Jack_1Pin;2;Conn_01x01_Female;VORHANDEN Stäubli Laborbuchsen
+28;HCPL-7800;DIP-8_W7.62mm;1;HCPL-7800;VORHANDEN
+29;-12V,+5V_iso,+12V;LED_D3.0mm;3;LED;https://www.conrad.de/de/p/vossloh-schwabe-ld-30-3mm-rot-led-bedrahtet-rot-rund-3-mm-3-mcd-45-20-ma-2-25-184560.html
